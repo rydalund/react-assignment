@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.symbol{
+  width: 150px;
+  margin: 10px;
+}
+
+.selectedImage{
+  width: 50px;
+}
+
+#draw{
+  margin-top: 10px;
+}
